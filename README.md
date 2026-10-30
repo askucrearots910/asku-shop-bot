@@ -1,0 +1,1 @@
+# asku-shop-bot
